@@ -1,7 +1,7 @@
 # Research Practicum 2018 – Research Plan (Template)
 (text between brackets to be removed)
 
-> * Group Name: (be creative!)
+> * Group Name: Indiana Jones
 > * Group participants names: (alphabetically sorted by last name)
 > * Project Title: (can be changed later)
 
