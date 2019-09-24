@@ -14,6 +14,7 @@
 (I tell sutdents to answer the questions, one paragaph each to start if you are lost)
 
 (Problem Statement. One paragraph to describe the prob-lem that you are tackling.)
+
 Research Problem: Understanding how organized gangs of looters transport illicit antiquities from archaeological sites.
 
 Research Question: How can transportation simulations illuminate the relationship between existing transportation infrastructure and the paths criminals would use to transport stolen antiquities?
