@@ -38,8 +38,11 @@ Throughout the Middle East and North Africa (MENA) region, organized criminal ga
 Discuss briefly about published matter that technically relates to your proposed work in 4-5 paragraphs.
 
 ## References 
+Casana, Jesse. 2015. “Satellite Imagery-Based Analysis of Archaeological Looting in Syria.” Near Eastern Archaeology 78 (3): 142–152.
 
 Luke, Christina, and Morag Kersel. 2005. “A Retrospective and a Look Forward.” Journal of Field Archaeology 30 (2): 191-200.
+
+Parcak, Sarah, David Gathings, Chase Childs, Greg Mumford, and Eric Cline. 2016. “Satellite Evidence of Archaeological Site Looting in Egypt: 2002–2013.” Antiquity 90 (349): 188–205.
 
 Terrill, W. Andrew. 2017. Antiquities Destruction and Illicit Sales as Sources of ISIS Funding and Propaganda. Carlisle, PA: U.S. Army War College. 
 
