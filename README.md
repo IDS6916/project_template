@@ -19,6 +19,13 @@ Research Problem: Understanding how organized gangs of looters transport illicit
 
 Research Question: How can transportation simulations illuminate the relationship between existing transportation infrastructure and the paths criminals would use to transport stolen antiquities?
 
+Sub-questions:
+Can studying the routes that are generated through simulations be used to predict the routes of smugglers?
+What decision-making criteria would smugglers use to determine the most viable routes for transporting illicit goods?
+Can a country's predisposition to bribing the police force alter the routes that smugglers may take?
+Can simulations incorporate variables, such as corruption, knowledge of faction-controlled roadways and borders, and vehicle capabilities, to create accurate transportation models?
+
+Background/Historical Context: 
 Throughout the Middle East and North Africa (MENA) region, organized criminal gangs have taken advantage of political instability to loot archaeological sites for the purpose of selling illicit antiquities to fund political insurgency and terrorist organizations (Terrill, 2007). While looting in these areas is a centuries-old practice (Luke & Kersel, 2005), advances in technology and a growing demand for antiquities from this region has caused a dramatic increase in these activites (Terrill, 2007). In an attempt to aid cultural heritage workers, international NGO's, and local stakeholders, this project seeks to address this problem through the use of computer simulations based upon in-country transportation networks to illuminate the relationship between this infrastructre and the paths that criminals would use to transport stolen antiquities from archaeological sites.  
 
 
