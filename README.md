@@ -5,13 +5,17 @@
 > * Group participants names: Cornell, Lincoln; Necaise, Aaron; Robkin, Jessica; Vaz, Karina
 > * Project Title: Cultural Heritage Transportation Simulation Project
 
+## Topic/Purpose Statement
+
+“This study addresses” the viability of using computer simulations to identify the relationship between transportation networks and the smuggling of illicit antiquities. “The purpose of this research” is to provide a tool for law enforcement agencies and cultural heritage workers to recover looted archaeological artifacts before they reach the black market for sale. “The first phase” of the study will be a quantitative simulation, guided by graph theory, to determine the various routes between [How many?] archaeological sites that are known to have been looted during the 2014 ISIS insurgency in Syria and Iraq and known locations where caches of illicit artifacts have been recovered. The data from these [simulations] will inform a qualitative survey designed to explore the routes that participants will select when informed about transportation networks and faction controlled territories [THIS ISNT QUITE RIGHT].
+
 ## General Introduction
 
 (States your motivation clearly: why is it important / interesting to solve this problem?)
 (Add real-world examples, if any)
 (Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
 
-(I tell sutdents to answer the questions, one paragaph each to start if you are lost)
+(I tell students to answer the questions, one paragaph each to start if you are lost)
 
 (Problem Statement. One paragraph to describe the prob-lem that you are tackling.)
 
