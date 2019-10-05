@@ -49,14 +49,23 @@ Throughout the Middle East and North Africa (MENA) region, organized criminal ga
 
 ## Related Work
 
-Discuss briefly about published matter that technically relates to your proposed work in 4-5 paragraphs.
+  One obstacle for predicting the routes that looters take while transporting goods away from archeological sites is understanding how the political or geographical conditions of a region could influence the routing decisions made by smugglers. While looting in the MENA (Middle East and North Africa) region deserves unique considerations because of the activity’s relationship to terrorist groups, certain behaviors might hold true  across regions (Proulx, 2013).  From this perspective, understanding looting behavior at a global level could serve to inform our model for looting in the MENA region. 
+  
+  There is some anecdotal evidence to suggests that looters often do not take precautions to avoid detection by archeologists or law officials after they have stolen historical goods (Proulx, 2013). In this study on regional attitudes towards looting,  Proulx (2013) found that the majority of archeological field-workers come into contact with looters while working. Further, nearly half of these field-workers have been solicited by looters to purchase back stolen goods. Data from this study was aggregated from historical sites located broadly throughout the world, which provides some insight on looting activity in MENA. However, this study does not help to explain routing behavior that is dependent on border customs and region-specific faction politics. 
+
+
 
 ## References 
 Casana, Jesse. 2015. “Satellite Imagery-Based Analysis of Archaeological Looting in Syria.” Near Eastern Archaeology 78 (3): 142–152.
 
+
 Luke, Christina, and Morag Kersel. 2005. “A Retrospective and a Look Forward.” Journal of Field Archaeology 30 (2): 191-200.
 
 Parcak, Sarah, David Gathings, Chase Childs, Greg Mumford, and Eric Cline. 2016. “Satellite Evidence of Archaeological Site Looting in Egypt: 2002–2013.” Antiquity 90 (349): 188–205.
+
+
+Proulx, B. B. (2013). Archaeological Site Looting in “Glocal” Perspective: Nature, Scope, and Frequency. American Journal of  Archaeology, 117(1), 111. https://doi.org/10.3764/aja.117.1.0111
+
 
 Terrill, W. Andrew. 2017. Antiquities Destruction and Illicit Sales as Sources of ISIS Funding and Propaganda. Carlisle, PA: U.S. Army War College. 
 
