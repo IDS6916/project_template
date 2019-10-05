@@ -22,8 +22,7 @@
 > Archaeological Site Looting in Glocal Perspective: Naure, Scope, and Frequency
 >> Summary: Proulx conducts a qualitative study where archeological field workers at multiple sites across the globe are interviewed about their interactions with looters. The study demonstrated the frequency and attitudes of looters, and how these attitudes are similar across mulitple regions. Interestingly, looters are often brazen enough to try to sell back stolen goods to archeologists which demonstrates how little effort is taken to remain hidden.
 >>
->> Executive Summary: This paper can give us some good insight for how to design our simulation, since variables like law enforcement presence may not have much of an impact. We can also learn about how frequently looting occurs. 
-
+>> Executive Summary: This paper can give us some good insight for how to design our simulation, since variables like law >>enforcement presence may not have much of an impact. We can also learn about how frequently looting occurs. 
 >>  * Clarity of Exposition : 4
 >>  * Quality of References : 4
 >>  * Reproducibility : 3
