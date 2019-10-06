@@ -22,9 +22,7 @@ Hypotheses:
 
 H1: The incorporation of regional variables (weather, faction-control, road conditions, available alternative routes) will improve the prediciton of smuggling routes. 
 
-H2: Identifying routes of least resistance through weighting roads based on informed criteria (faction-control, road conditions, available alternative routes) will result in reliable transportation models for smuggling illicit antiquities, based upon the theory that smugglers aim to blend in with the populous.
-
-H3: Computer simulations will select the same preferred routes as informed survey participants. 
+H2: 
 
 (Motivation. Why is this problem interesting and relevant to the research community?)
 
