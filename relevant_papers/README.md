@@ -1,8 +1,7 @@
-# Research Practicum 2018 – Research Plan (Template)
-(text between brackets to be removed)
+# Research Practicum 2019 – Research Plan 
 
-> * Group Name: (be creative!)
-> * Group participants names: (alphabetically sorted by last name)
+> * Group Name: It Belongs in a Museum
+> * Group participants names: Cornell, Harry; Necaise, Aaron; Robkin, Jessica; Vaz, Karina
 > * Project Title: (can be changed later)
 
 ## Relevant Sources
