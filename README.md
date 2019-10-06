@@ -56,16 +56,15 @@ Throughout the Middle East and North Africa (MENA) region, organized criminal ga
 
 
 ## References 
-Casana, Jesse. 2015. “Satellite Imagery-Based Analysis of Archaeological Looting in Syria.” Near Eastern Archaeology 78 (3): 142–152.
+Basu, Gautam. 2014. “The Strategic Attributes of Transnational Smuggling: Logistics Flexibility and Operational Stealth in the Facilitation of Illicit Trade.” Journal of Transportation Security 7 (2): 99–113. https://doi.org/10.1007/s12198-013-0132-0.
 
+Casana, Jesse. 2015. “Satellite Imagery-Based Analysis of Archaeological Looting in Syria.” Near Eastern Archaeology 78 (3): 142–152.
 
 Luke, Christina, and Morag Kersel. 2005. “A Retrospective and a Look Forward.” Journal of Field Archaeology 30 (2): 191-200.
 
 Parcak, Sarah, David Gathings, Chase Childs, Greg Mumford, and Eric Cline. 2016. “Satellite Evidence of Archaeological Site Looting in Egypt: 2002–2013.” Antiquity 90 (349): 188–205.
 
-
 Proulx, B. B. (2013). Archaeological Site Looting in “Glocal” Perspective: Nature, Scope, and Frequency. American Journal of  Archaeology, 117(1), 111. https://doi.org/10.3764/aja.117.1.0111
-
 
 Terrill, W. Andrew. 2017. Antiquities Destruction and Illicit Sales as Sources of ISIS Funding and Propaganda. Carlisle, PA: U.S. Army War College. 
 
