@@ -24,7 +24,7 @@ H1: Computer simulations will reliably select the most advantageous travel paths
 
 H2: Identifying routes of least resistance through weighting roads based on informed criteria (faction-control, road conditions, available alternative routes) will result in reliable transportation models for smuggling illicit antiquities, based upon the theory that smugglers aim to blend in with the populous.
 
-H2: Computer simulations will select the same preferred routes as informed survey participants. 
+H3: Computer simulations will select the same preferred routes as informed survey participants. 
 
 (Motivation. Why is this problem interesting and relevant to the research community?)
 
