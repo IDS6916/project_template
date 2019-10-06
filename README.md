@@ -20,7 +20,7 @@ Computer simulations offer an option for this research. By first understanding t
  
 Hypotheses:
 
-H1: Can we incorporate Regional Variables to improve prediction of smuggling routes? 
+H1: The incorporation of regional variables will improve the prediciton of smuggling routes. 
 
 H2: Identifying routes of least resistance through weighting roads based on informed criteria (faction-control, road conditions, available alternative routes) will result in reliable transportation models for smuggling illicit antiquities, based upon the theory that smugglers aim to blend in with the populous.
 
