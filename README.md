@@ -22,7 +22,7 @@ Hypotheses:
 
 H1: The incorporation of regional variables (weather, faction-control, road conditions, available alternative routes) will improve the prediciton of smuggling routes. 
 
-H2: 
+H2: Given a forced-choice question, survey respondents will select similar paths as predicted by computer simulations.
 
 (Motivation. Why is this problem interesting and relevant to the research community?)
 
