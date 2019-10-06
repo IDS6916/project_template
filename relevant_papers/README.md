@@ -11,9 +11,14 @@
 > [Proulx, B. B. (2013). Archaeological Site Looting in “Glocal” Perspective: Nature, Scope, and Frequency. American Journal of  Archaeology, 117(1), 111.](/relevant_papers/proulx.pdf)
 
 * Source 2
+> [Basu, Gautam. 2014. “The Strategic Attributes of Transnational Smuggling: Logistics Flexibility and Operational Stealth in the Facilitation of Illicit Trade.” Journal of Transportation Security 7 (2): 99–113.] (https://doi.org/10.1007/s12198-013-0132-0)
+
+* Source 3
 > [Hawking, S. W. (1974). Black hole explosions?. Nature, 248(5443), 30.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.3702&rep=rep1&type=pdf)
 
+* Source 4
 
+* Source 5
 
 ## Review
 
@@ -29,6 +34,17 @@
 >>  * Explanation of Rating
 >>  * The paper provides useful information, but not enough to inform our simulation robustly. 
 
+## Source 2 - Review
+> The Strategic Attributes of Transnational Smuggling: Logistics and Flexibility and Operational Stealth in the Facilitation of Illicit Trade
+>> Summary: Basu investigates transnational smuggling from an operations management perspective using archival analysis of secondary data sources. The author posits that transnational smugglers use two main approaches to evade law enforcement officials, evasion or stealth. Both methods involve a high level of innovation and flexibility aimed at adapting to transportation infrastructure and law enforcement methods. The author concludes that “logistic flexibility” allows transnational smuggling organizations to quickly adapt transportation methods and logistics in response to pressure from law enforcement. discusses transnational smuggling logistics.
+>>
+>> Executive summary: This article provides insight into the mentality of smuggling organizations. This is useful information when trying to decide on independent variables to be tested. Understanding how smugglers are moving other illicit goods, such as drugs or human trafficking, is wholly relatable to the decisions that smugglers of illicit antiquities would also make. 
+>>  * Clarity of Exposition : 4
+>>  * Quality of References : 4
+>>  * Reproducibility : 4
+>>  * Rating: 4
+>>  * Explanation of Rating
+>>  * This paper provides useful information into the mindset of smugglers on a macro-level. While smugglers within country may face different challenges than their transnational smuggling counterparts, the information is still a valuable insight into the movement of illicit goods through transportation networks. 
 
 
 ## Sample Format
