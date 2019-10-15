@@ -29,9 +29,9 @@
 >> Summary: Proulx conducts a qualitative study where archeological field workers at multiple sites across the globe are interviewed about their interactions with looters. The study demonstrated the frequency and attitudes of looters, and how these attitudes are similar across mulitple regions. Interestingly, looters are often brazen enough to try to sell back stolen goods to archeologists which demonstrates how little effort is taken to remain hidden.
 >>
 >> Executive Summary: This paper can give us some good insight for how to design our simulation, since variables like law >>enforcement presence may not have much of an impact. We can also learn about how frequently looting occurs. 
->>  * Clarity of Exposition : 4
->>  * Quality of References : 4
->>  * Reproducibility : 3
+>>  * Clarity of Exposition: 4
+>>  * Quality of References: 4
+>>  * Reproducibility: 3
 >>  * Rating: 3
 >>  * Explanation of Rating
 >>  * The paper provides useful information, but not enough to inform our simulation robustly. 
@@ -41,9 +41,9 @@
 >> Summary: Basu investigates transnational smuggling from an operations management perspective using archival analysis of secondary data sources. The author posits that transnational smugglers use two main approaches to evade law enforcement officials, evasion or stealth. Both methods involve a high level of innovation and flexibility aimed at adapting to transportation infrastructure and law enforcement methods. The author concludes that “logistic flexibility” allows transnational smuggling organizations to quickly adapt transportation methods and logistics in response to pressure from law enforcement. discusses transnational smuggling logistics.
 >>
 >> Executive summary: This article provides insight into the mentality of smuggling organizations. This is useful information when trying to decide on independent variables to be tested. Understanding how smugglers are moving other illicit goods, such as drugs or human trafficking, is wholly relatable to the decisions that smugglers of illicit antiquities would also make. 
->>  * Clarity of Exposition : 4
->>  * Quality of References : 4
->>  * Reproducibility : 4
+>>  * Clarity of Exposition: 4
+>>  * Quality of References: 4
+>>  * Reproducibility: 4
 >>  * Rating: 4
 >>  * Explanation of Rating
 >>  * This paper provides useful information into the mindset of smugglers on a macro-level. While smugglers within country may face different challenges than their transnational smuggling counterparts, the information is still a valuable insight into the movement of illicit goods through transportation networks. 
@@ -53,8 +53,8 @@
 >> Summary: 
 >>
 >> Executive summary:  
->>  * Clarity of Exposition : 
->>  * Quality of References : 
+>>  * Clarity of Exposition: 
+>>  * Quality of References: 
 >>  * Reproducibility: 
 >>  * Rating: 
 >>  * Explanation of Rating
