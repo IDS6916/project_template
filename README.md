@@ -49,20 +49,18 @@ H3: Geopolitical environment will influence region-specific routes.
 ## References 
 Alderman, K. L. (n.d.). Honor Amongst Thieves: Organized Crime and the Illicit Antiquities Trade. Indiana Law Review, 45, 27.
 
-Basu, Gautam. 2013. “The Role of Transnational Smuggling Operations in Illicit Supply Chains.” Journal of Transportation Security 6 (4): 315–28. https://doi.org/10.1007/s12198-013-0118-y.
+Basu, G. (2013). The role of transnational smuggling operations in illicit supply chains. Journal of Transportation Security, 6(4), 315–328. https://doi.org/10.1007/s12198-013-0118-y
 
-Basu, Gautam. 2014. “The Strategic Attributes of Transnational Smuggling: Logistics Flexibility and Operational Stealth in the Facilitation of Illicit Trade.” Journal of Transportation Security 7 (2): 99–113. https://doi.org/10.1007/s12198-013-0132-0.
+Basu, G. (2014). The strategic attributes of transnational smuggling: Logistics flexibility and operational stealth in the facilitation of illicit trade. Journal of Transportation Security, 7(2), 99–113. https://doi.org/10.1007/s12198-013-0132-0
 
-Casana, Jesse. 2015. “Satellite Imagery-Based Analysis of Archaeological Looting in Syria.” Near Eastern Archaeology 78 (3): 142–152.
+Casana, J. (2015). Satellite imagery-based analysis of archaeological looting in Syria. Near Eastern Archaeology, 78(3), 142–152.
 
-Luke, Christina, and Morag Kersel. 2005. “A Retrospective and a Look Forward.” Journal of Field Archaeology 30 (2): 191-200.
+Luke, Christina, and Morag Kersel. (2005). A Retrospective and a Look Forward. Journal of Field Archaeology, 30(2), 191-200.
 
 Medel, M., Lu, Y., & Chow, E. (2015). Mexico’s drug networks: Modeling the smuggling routes towards the United States. Applied Geography, 60, 240–247. https://doi.org/10.1016/j.apgeog.2014.10.018
 
-Parcak, Sarah, David Gathings, Chase Childs, Greg Mumford, and Eric Cline. 2016. “Satellite Evidence of Archaeological Site Looting in Egypt: 2002–2013.” Antiquity 90 (349): 188–205.
+Parcak, Sarah, David Gathings, Chase Childs, Greg Mumford, and Eric Cline. (2016). Satellite Evidence of Archaeological Site Looting in Egypt: 2002–2013. Antiquity, 90(349), 188–205.
 
 Proulx, B. B. (2013). Archaeological Site Looting in “Glocal” Perspective: Nature, Scope, and Frequency. American Journal of  Archaeology, 117(1), 111. https://doi.org/10.3764/aja.117.1.0111
 
-Terrill, W. Andrew. 2017. Antiquities Destruction and Illicit Sales as Sources of ISIS Funding and Propaganda. Carlisle, PA: U.S. Army War College. 
-
-
+Terrill, W. Andrew. (2017). Antiquities Destruction and Illicit Sales as Sources of ISIS Funding and Propaganda. Carlisle, PA: U.S. Army War College. 
