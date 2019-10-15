@@ -33,14 +33,13 @@ H3: Geopolitical conflict will influence region-specific routes.
 
 >> H3 Rationale: One assumption that we are operating under is that smugglers will generally behave like ordinary citizens in order to lower their visibility to law enforcement. One concern is that--in countries with political instability--law enforcement may not serve as a detriment to smugglers if police corruption is an issue. To better understand how regional instability may influence smuggling and law enforcement behavior, we plan to distribute a qualitative survey to participants who live(d) in those regions.
 
-(Motivation. Why is this problem interesting and relevant to the research community?)
 
 #### Motivation
+
 The looting of historical sites is both damaging to the culutral heritage of local communities and helping to fund dangerous terrorist activity in the MENA region. While there has been a large amount of research focused on drug smuggling, little has addressed the issue of artifact smuggling. This important research will  address this gap in the literature and potentially have real-world impact on artifact smuggling.
 
-(Proposed Solution. How do we propose to tackle this problem (that has been identified in the previous para-graphs, is interesting to the community, and has yet to be tackled by other researchers)?)
-
 #### Proposed Solution
+
 The current project will utilize graph-theory to develop a series of routes within known smuggling networks. Our modeled smuglging network with take into account smuggling-related factors like circuity and border security in order to generate a series of routes with better validity that what can be achieved with shortest-path routing alone. A series of surveys and questionnaires will be used to gain additional insight about our model and smuggling behavior. The goal is for this model of smuggling to be extended to the MENA region where it can be used to predict artifact smuggling routes.
 
 #### Contributions:
