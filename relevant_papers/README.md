@@ -11,7 +11,7 @@
 > [Proulx, B. B. (2013). Archaeological Site Looting in “Glocal” Perspective: Nature, Scope, and Frequency. American Journal of  Archaeology, 117(1), 111.](/relevant_papers/proulx.pdf)
 
 * Source 2
-> [Basu, G. (2014). The strategic attributes of transnational smuggling: Logistics flexibility and operational stealth in the facilitation of illicit trade. Journal of Transportation Security, 7(2), 99–113.] (https://doi.org/10.1007/s12198-013-0132-0)
+> [Basu, G. (2014). The strategic attributes of transnational smuggling: Logistics flexibility and operational stealth in the facilitation of illicit trade. Journal of Transportation Security, 7(2), 99–113.](https://doi.org/10.1007/s12198-013-0132-0)
 
 * Source 3
 > [Medel, M., Lu, Y., & Chow, E. (2015). Mexico’s drug networks: Modeling the smuggling routes towards the United States. Applied Geography, 60, 240–247.](https://doi.org/10.1016/j.apgeog.2014.10.018)
