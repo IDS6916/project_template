@@ -11,14 +11,16 @@
 > [Proulx, B. B. (2013). Archaeological Site Looting in “Glocal” Perspective: Nature, Scope, and Frequency. American Journal of  Archaeology, 117(1), 111.](/relevant_papers/proulx.pdf)
 
 * Source 2
-> [Basu, Gautam. 2014. “The Strategic Attributes of Transnational Smuggling: Logistics Flexibility and Operational Stealth in the Facilitation of Illicit Trade.” Journal of Transportation Security 7 (2): 99–113.] (https://doi.org/10.1007/s12198-013-0132-0)
+> [Basu, G. (2014). The strategic attributes of transnational smuggling: Logistics flexibility and operational stealth in the facilitation of illicit trade. Journal of Transportation Security, 7(2), 99–113.] (https://doi.org/10.1007/s12198-013-0132-0)
 
 * Source 3
-> [Hawking, S. W. (1974). Black hole explosions?. Nature, 248(5443), 30.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.3702&rep=rep1&type=pdf)
+> [Medel, M., Lu, Y., & Chow, E. (2015). Mexico’s drug networks: Modeling the smuggling routes towards the United States. Applied Geography, 60, 240–247.](https://doi.org/10.1016/j.apgeog.2014.10.018)
 
 * Source 4
+> [Hawking, S. W. (1974). Black hole explosions?. Nature, 248(5443), 30.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.3702&rep=rep1&type=pdf)
 
 * Source 5
+> [Hawking, S. W. (1974). Black hole explosions?. Nature, 248(5443), 30.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.3702&rep=rep1&type=pdf)
 
 ## Review
 
@@ -46,6 +48,17 @@
 >>  * Explanation of Rating
 >>  * This paper provides useful information into the mindset of smugglers on a macro-level. While smugglers within country may face different challenges than their transnational smuggling counterparts, the information is still a valuable insight into the movement of illicit goods through transportation networks. 
 
+## Source 3 - Review
+> Mexico’s drug networks: Modeling the smuggling routes towards the United States
+>> Summary: 
+>>
+>> Executive summary:  
+>>  * Clarity of Exposition : 
+>>  * Quality of References : 
+>>  * Reproducibility: 
+>>  * Rating: 
+>>  * Explanation of Rating
+>>  * 
 
 ## Sample Format
 (which paper)
