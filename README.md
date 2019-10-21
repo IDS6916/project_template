@@ -2,7 +2,7 @@
 
 > * Group Name: It Belongs in a Museum
 > * Group participants names: Cornell, Lincoln; Necaise, Aaron; Robkin, Jessica; Vaz, Karina
-> * Project Title: Cultural Heritage Transportation Simulation Project
+> * Project Title: Towards a Model for Predicting Overland Trafficking Routes
 
 ## Topic/Purpose Statement
 
