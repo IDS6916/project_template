@@ -46,6 +46,8 @@ The current project will utilize graph-theory to develop a series of routes with
 
 •	Gain insight into smuggling behavior, including information on routing decisions and understanding the influence of geopolitical conflict on smuggling.
 
+## Research Methods
+
 ## Related Work / Literature Review
 
   One obstacle for predicting the routes that looters take while transporting goods away from archeological sites is understanding how the political or geographical conditions of a region could influence the routing decisions made by smugglers. While looting in the MENA (Middle East and North Africa) region deserves unique considerations because of the activity’s relationship to terrorist groups, certain behaviors might hold true  across regions (Proulx, 2013).  From this perspective, understanding looting behavior at a global level could serve to inform our model for looting in the MENA region. 
