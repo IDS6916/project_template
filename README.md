@@ -34,10 +34,6 @@ The looting of historical sites is both damaging to the culutral heritage of loc
 #### Proposed Solution
 The current project will utilize graph-theory to develop a series of routes within known smuggling networks. Our modeled smuggling network will take into account highly related factors like circuity and border security in order to generate a  routes with better validity than what can be achieved with shortest-path routing. A series of surveys and questionnaires will be used to gain additional insight about our model and smuggling behavior. The goal is for this model of smuggling to be extended to the MENA region where it can be used to predict artifact smuggling routes.
 
-#### Contributions:
-•	Develop a methodology for predicting artifact smuggling routes that can be applied in the MENA region. 
-
-•	Gain insight into smuggling behavior, including information on routing decisions and understanding the influence of geopolitical conflict on smuggling.
 
 Hypotheses:
 
@@ -55,6 +51,11 @@ H3: Geopolitical conflict will influence region-specific routes.
 
 
 
+#### Contributions:
+•	Develop a methodology for predicting artifact smuggling routes that can be applied in the MENA region. 
+
+•	Gain insight into smuggling behavior, including information on routing decisions and understanding the influence of geopolitical conflict on smuggling.
+
 
 ## Research Methods
 
@@ -69,6 +70,19 @@ H3: Geopolitical conflict will influence region-specific routes.
   In finding the most likely path that smugglers may take, we are using graph theory to help predict the routes.  In graphing theory, vertices are points defined with edges that connect the vertices.  The edges can be unidirectional or bidirectional.  To use the graph theory to help in predicting the shortest route, the graph is modified to represent a geographic layout of a region.  The vertices represent the cities while the edges represent the paths between the cities.  Each edge is also given a weighted value, in our case the edge’s weighted value is determined by several factors.  In our research, the distance was not used as the weight of the edge.  Additional factors of criminal activity and population density (Medel et al., 2015) were included in the weighted values for the edges.  With the graph constructed, Dijkstra’s Algorithm (Rodríguez-Puente & Lazo-Cortés, 2013) will be used to determine the shortest path though the graph.  This will represent the best route, not based on distance, but based on lowest risk to the smuggler.  
   
 ## Research Method
+
+<tab> The current project aims to address the lack of data available on looting paths in MENA along three majors avenues. First, using a similar approach as Medel (2014), a graph model will be developed that considers route distance, faction presence, crime rate, and route circuity. Based on the literature on drug smuggling, and what is known about the antiquities trade, these regional conditions are likely contributors towards routing decisions made in MENA. In addition, to gain insight about these contributing factors and to understand how the current model could be applied in MENA, two qualitative surveys will be administered to human subjects. 
+
+#### Materials
+
+
+
+#### Participants
+
+
+
+#### Study plan and Procedure 
+
 
 ## References 
 Alderman, K. L. (2012). Honor Amongst Thieves: Organized Crime and the Illicit Antiquities Trade. Indiana Law Review, 45, 27.
