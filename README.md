@@ -103,6 +103,7 @@ Drawing from the methods developed by Medel (2015), our graph model will be deve
 
 Links between nodes will represent the pathwayways between major waypoints. As a base, these links will be given a value that corresponds to the distance between nodes. Then, this distance will be weighted by crime rate and faction presence of connected nodes. Once this network has been established, routing will be completed using Dijkstra's shortest path algorithm. Because the distance between nodes was weighed by our regional variables, this model will represent the path of least-cost.
 
+<img src="images/MX_NodesLinks_Alpha.jpg" width="400" >
 
 ##### Surveys
 
