@@ -53,9 +53,8 @@ Geopolitical conflict will influence region-specific routes.
 
 #### Contributions:
 
-•	Develop a methodology for predicting artifact smuggling routes that can be applied in the MENA region. 
-
-•	Gain insight into smuggling behavior, including information on routing decisions and understanding the influence of geopolitical conflict on smuggling.
+* Develop a methodology for predicting artifact smuggling routes that can be applied in the MENA region. 
+* Gain insight into smuggling behavior, including information on routing decisions and understanding the influence of geopolitical conflict on smuggling.
 
 ## Related Work / Literature Review
 
@@ -68,11 +67,13 @@ Transporting illegal antiquities has it's own unique set of complications (prope
 In finding the most likely path that smugglers may take, we are using graph theory to help predict the routes.  In graphing theory, vertices are points (also refered to as nodes) defined with edges that connect the vertices to form a graph.  The edges can be unidirectional or bidirectional.  To use the graph theory to help in predicting the shortest route, the graph is created to represent a geographic layout of a region, in our case the southern part of Mexico.  The vertices represents the cities that are along the various routes that the smugglers could take.  The edges represents the paths between the cities which are the major roadways that connect the cities.  By defining the veriticies and edges to represent the geographic routes in Mexico, a graph is created to help in determining the most likely route smugglers would take.
   
 In order to find the most likely route using graph theory, the route with the smallest weighted path will be found.  To accomplish this, the edges (which represents the routes between the cities) will be given weights based on some attributes.  These attributes will include the following:
+
 * Crime rate
 * Distance
 * Circuity
 * Population
 * Cartel controlled
+
 These attribures will defined the weight given to each edge in the graph. In our research, these attributes have been used in other research for predicting paths smugglers would take in Mexico (Medel et al., 2015).
 
 With the graph constructed and weights applied to the edges, the shorted route can be found.  Although the shortest route can be found manually, there are algorithms that can find the shortest path.  One such algorithm is Dijkstra’s Algorithm (Rodríguez-Puente & Lazo-Cortés, 2013) which will be used to determine the shortest path though the graph.  The Dijkstra’s Algorithm used with a graph tree simulation program can determine the shortest path given the input quickly.  The route determined by the Dijkstra’s Algorithm will represent the best route, not based on distance, but based on lowest risk to the smuggler.  
