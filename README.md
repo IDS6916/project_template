@@ -1,7 +1,7 @@
 # Research Practicum 2019 – Research Plan 
 
 > * Group Name: We Belong in a Museum
-> * Group participants names: Cornell, Lincoln; Necaise, Aaron; Robkin, Jessica; Vaz, Karina
+> * Group participants names: Cornell, Lincoln; Necaise, Aaron; Robkin, Jessica
 > * Project Title: Towards a Model for Predicting Overland Trafficking Routes
 
 ## 1. Topic/Purpose Statement
