@@ -34,6 +34,8 @@ The looting of historical sites is both damaging to the cultural heritage of loc
 
 The current project will utilize graph-theory to develop a series of routes within known smuggling networks. Our modeled smuggling network will take into account highly related factors like circuity and border security in order to generate routes with better validity than what can be achieved with shortest-path routing. A series of surveys and questionnaires will be used to gain additional insight about our model and smuggling behavior. The goal is for this model of smuggling to be extended to the MENA region where it can be used to predict artifact smuggling routes.
 
+PUT IN SECTION TO EXPLAIN THIS IS NOT THE SHORTEST PATH, BUT LEAST RISK PATH.
+
 ### 2.3 Hypotheses:
 
 #### H1:
@@ -106,17 +108,27 @@ The second questionnaire, titled the Regional Influence Questionnaire, will be d
 
 Drawing from the methods developed by Medel (2015), our graph model will be developed using a high-level overview of Central America. In the graph, nodes will represent major waypoints located throughout the region. These waypoints will consist of several dozen major cities, towns, and highway entrances. Using a qualitative approach, historical data will be gathered on the crime rate and criminal faction presence of that node's surrounding area. This data will be systematically applied to that nodes edges. 
 
+### Inset flow chart here
+
 Links between nodes will represent the pathway between major waypoints. As a base, these links will be given a value that corresponds to the distance between nodes. Then, this distance will be weighted by crime rate and faction presence of connected nodes. Once this network has been established, routing will be completed using Dijkstra's shortest path algorithm. Because the distance between nodes was weighed by our regional variables, this model will represent the path of least-cost.
 
 <img src="images/MX_NodesLinks_Alpha.jpg" width="500" >
 
+### 5.1.5 Graph Tea Writeup
+
 ### 5.2 Surveys
 
-#### 5.3 Route Decision Questionnaire
+Intro
+
+#### 5.2.1 IRB Plan
+
+Insert form here (maybe) or explain how/why we choose the type to do
+
+#### 5.2.2 Route Decision Questionnaire
 
 Participants recruited through SONA will be asked to fill out the questionnaire in a face-to-face session. The function of an in-person meeting is to ensure that any questions from the participant concerning this nuanced cultural issue can be fully addressed be researchers. After receiving a thorough briefing on the topic, participants will be allowed to complete the paper-based form in private. This questionnaire is not expected to take more than 15 minutes to complete. 
 
-#### 5.3 Regional Influence Questionnaire
+#### 5.2.3 Regional Influence Questionnaire
 
 Participants will be recruited through Facebook and social media. Respondents who choose to participate will receive a link to fill out the survey through Google Forms. Study's completed in this manner are both convenient and anonymous. Survey completion will take no more than 10 minutes. 
 
@@ -124,9 +136,23 @@ Participants will be recruited through Facebook and social media. Respondents wh
 
 ## 6. Results
 
+### 6.1 Route Decision Questionnaire Responses
+
+### 6.2 Regional Influence Questionnaire Response
+
+### 6.3 Calculating Attribute Weights
+
+### 6.4 Graph Tea (Change the name) Results
+
 ## 7. Conclusion
 
+### 7.1 Compare to other studies results
+
 ## 8. Future Work
+
+### 8.1 Expand this to use more turn-by-turn simulation
+
+### 8.2 Apply to MENA
 
 ## References
 
