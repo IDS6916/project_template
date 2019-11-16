@@ -144,7 +144,13 @@ A map was studied showing the major road networks between Zihuatanejo to Nuevo L
 
 ### 5.3 Route and City Information
 
-Write about getting the info about the routes and the cities.  Show how this was placed into a xls file.
+With the cities defined, informatin was gathered about each city to start to form the attributes that will be applied to the routes when generating the various weights.  It was choosen to use the destination city's information to apply to the route's attributes when calculating the weights.  
+
+City information of crime rate and population was found using crime data that reported the crime rate and population for each city (“Mexico Crime Map,” n.d.).  Cartel information was gathered showing which cartels control different areas PUT REFERENCE IN HERE.  This map was overlayed onto the route maps to allow us to determine which cartels control the different areas for each city.
+
+<img src="images/RoutesWithCartel.png" width="400">
+
+The city information was 
 
 ### 5.3 Graph Tea Writeup
 
@@ -191,6 +197,8 @@ Casana, J. (2015). Satellite imagery-based analysis of archaeological looting in
 Luke, Christina, and Morag Kersel. (2005). A Retrospective and a Look Forward. Journal of Field Archaeology, 30(2), 191-200.
 
 Medel, M., Lu, Y., & Chow, E. (2015). Mexico’s drug networks: Modeling the smuggling routes towards the United States. Applied Geography, 60, 240–247. https://doi.org/10.1016/j.apgeog.2014.10.018
+
+Mexico Crime Map. (n.d.). Retrieved November 16, 2019, from Crimenmexico website: https://elcri.men/en/municipios-map.html
 
 Parcak, Sarah, David Gathings, Chase Childs, Greg Mumford, and Eric Cline. (2016). Satellite Evidence of Archaeological Site Looting in Egypt: 2002–2013. Antiquity, 90(349), 188–205.
 
