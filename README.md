@@ -114,8 +114,6 @@ Links between nodes will represent the pathway between major waypoints. As a bas
 
 <img src="images/MX_NodesLinks_Alpha.jpg" width="500" >
 
-### 5.1.5 Graph Tea Writeup
-
 ### 5.2 Surveys
 
 Intro
@@ -134,15 +132,35 @@ Participants will be recruited through Facebook and social media. Respondents wh
 
 <img src="images/Reg_Infl_Survey_pg1.JPG" width="425" ><img src="images/Reg_Infl_Survey_pg2.JPG" width="425" >
 
+### 5.2 Define Routes
+
+Write about using the studies and then ploting routes in the KMZ.  Show the KMZ file.
+
+### 5.3 Route and City Information
+
+Write about getting the info about the routes and the cities.  Show how this was placed into a xls file.
+
+### 5.3 Graph Tea Writeup
+
+Write up a little about Graph Tea.  Then show a pic of the routes and cities in Graph Tea.
+
 ## 6. Results
 
 ### 6.1 Route Decision Questionnaire Responses
 
+Write up about the responses.
+
 ### 6.2 Regional Influence Questionnaire Response
+
+Write up about the responses.
 
 ### 6.3 Calculating Attribute Weights
 
+Write how the survey results were made into weights.  Show the xls file.  Show the cartel and routes.
+
 ### 6.4 Graph Tea (Change the name) Results
+
+Write how Graph Tea works.  Record a video of the Graph Tea running.  Show the final result in Graph Tea.  Show the result in KMZ.
 
 ## 7. Conclusion
 
