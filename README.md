@@ -132,9 +132,15 @@ Participants will be recruited through Facebook and social media. Respondents wh
 
 <img src="images/Reg_Infl_Survey_pg1.JPG" width="425" ><img src="images/Reg_Infl_Survey_pg2.JPG" width="425" >
 
-### 5.2 Define Routes
+### 5.3 Define Routes
 
-Write about using the studies and then ploting routes in the KMZ.  Show the KMZ file.
+A set of routes were taken from previous studies, mainly the Medel study which showed the routes that were predicted along a path from a cartel controlled area to the US-Mexico border as shown below.  The Medel study included many factors to come up with the least expensive route that the trafficers may take while traveling.  Using the study as a reference, our project focused on finding the most likely path from the Mexican city of Zihuatanejo in the Pacific coast to Nuevo Laredo, which shares the border with Laredo, TX.
+
+<img src="images/MedelRoutes.png" width="400">
+
+A map was studied showing the major road networks between Zihuatanejo to Nuevo Laredo.  Major population cities along the path were picked out to form the road netowrk and cities that the smugglers would have to travel though.  The cities were plotted into Google Earth along with the linear routes between the cities that matched the road networks that connect the cities.  The result is shown below.
+
+<img src="images/RoutesKMZ.png" width="300">
 
 ### 5.3 Route and City Information
 
