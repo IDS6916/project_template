@@ -126,11 +126,13 @@ Insert form here (maybe) or explain how/why we choose the type to do
 
 Participants recruited through SONA will be asked to fill out the questionnaire in a face-to-face session. The function of an in-person meeting is to ensure that any questions from the participant concerning this nuanced cultural issue can be fully addressed be researchers. After receiving a thorough briefing on the topic, participants will be allowed to complete the paper-based form in private. This questionnaire is not expected to take more than 15 minutes to complete. 
 
+Insert Route Decision Questionnaire
+
 #### 5.2.3 Regional Influence Questionnaire
 
 Participants will be recruited through Facebook and social media. Respondents who choose to participate will receive a link to fill out the survey through Google Forms. Study's completed in this manner are both convenient and anonymous. Survey completion will take no more than 10 minutes. 
 
-<img src="images/Reg_Infl_Survey_pg1.JPG" width="425" ><img src="images/Reg_Infl_Survey_pg2.JPG" width="425" >
+Insert Regional influence Questionnaire
 
 ### 5.3 Define Routes
 
