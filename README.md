@@ -384,9 +384,7 @@ Write how Graph Tea works.  Record a video of the Graph Tea running.  Show the f
 
 Graph Tea was used to calculate the route with the least risk calcualted on based on the routes attributes and survey results.  The cities were loaded into Graph Tea in their respective geographical locations.  The routes were defined using the city to city routes with the weights defined from the results each routes attributes and the weighting determined by the Route Decision Questionnaire results.  The input in the Graph Tea program is shown below.
 
-<img src="images/GraphTeaInput.png" width="400">
-
-<img src="images/MexicoRoutes85.mp4">
+[![Graph Tea](images/GraphTeaInput.png)](https://github.com/harrycornell/Research-Project/blob/master/images/MexicoRoutes85.mp4)
 
 ## 7. Conclusion
 
