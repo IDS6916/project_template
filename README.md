@@ -166,30 +166,30 @@ The city information was collected with the following information.
 | Irapuato | 53.7 | 584276 | Tierra Caliente | 
 | La Piedad | 22.3 | 107696 | Tierra Caliente | 
 | León | 26.5 | 1575400 | Tierra Caliente | 
-| Linares | 0 | 89441 | Tamaulipas | 
+| Linares | 0.0 | 89441 | Tamaulipas | 
 | Matehuala | 21.4 | 102579 | Tamaulipas | 
 | Monclova | 6.7 | 240033 | Tamaulipas | 
 | Monterrey | 17.1 | 1226064 | Shared | 
 | Morelia | 41.2 | 786782 | Tierra Caliente | 
-| Nueva Ciudad Guerrero | 0 | 5371 | Tamaulipas | 
+| Nueva Ciudad Guerrero | 0.0 | 5371 | Tamaulipas | 
 | Nueva Italia de Ruiz | 4.7 | 42605 | Tierra Caliente | 
 | Nuevo Laredo | 15.2 | 432926 | Tamaulipas | 
 | Pátzcuaro | 14.7 | 95335 | Tierra Caliente | 
 | Piedras Negras | 7.1 | 168297 | Tamaulipas | 
 | Reynosa | 30.9 | 718857 | Tamaulipas | 
-| Rioverde | 10 | 100293 | Tamaulipas | 
+| Rioverde | 10.0 | 100293 | Tamaulipas | 
 | Sabinas | 2.9 | 69718 | Tamaulipas | 
 | Sabinas Hidalgo | 10.3 | 38888 | Tamaulipas | 
 | Saltillo | 3.2 | 825244 | Tamaulipas | 
 | San Juan de los Lagos | 13.3 | 74932 | Tierra Caliente | 
 | San Juan del Río | 13.5 | 280960 | Tierra Caliente | 
 | San Luis Potosí | 20.4 | 854014 | Tamaulipas | 
-| San Tiburcio | 0 | 548 | Tamaulipas | 
+| San Tiburcio | 0.0 | 548 | Tamaulipas | 
 | Torreón | 11.1 | 723100 | Sinaloa | 
 | Uruapan | 74.6 | 348643 | Tierra Caliente | 
 | Zacatecas | 36.3 | 148752 | Tamaulipas | 
 | Zamora | 62.9 | 200205 | Tierra Caliente | 
-| Zihuatanejo | 103.8 | 132894 | Tierra Caliente |
+| Zihuatanejo | 103.8 | 132894 | Tierra Caliente | 
 
 The routes were defined next using the maps that were generated.  Each route was given a name of a from and to city.  The routes linear distance was measured using Google Earth.  The routes road distance was calculated using Google Maps.  These two attributes were used to calculate the circuity of the route by dividing the path distance by the linear distance.  The destination city's crime rate and population was also tabulated for the routes.
 
