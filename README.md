@@ -288,15 +288,19 @@ Write up about the responses.
 
 ### 6.3 Calculating Attribute Weights
 
-To apply the weights of the different attributes, scales were applied to each attribute.  The scale was based on the Ranking attribute that was dirived from the Route Decision Questionnaire.  These scales will be used against each routes attributes to detemine the final weighting of the attribute.
+To apply the weights of the different attributes, scales were applied to each attribute.  The scale was based on the Score and Ranking attribute that was dirived from the Route Decision Questionnaire.  These scales will be used against each routes attributes to detemine the final weighting of the attribute.  The scales were calculated using the following formula to allow for the more risky attribute to have a higher value.  The Score and Rankings were based on a scale of 1 - 5, therefore 5 was set to be the most risky for the Composite calculation.
 
-| Attribute | Weight Scale |
+Composite = Average(Score, 5.00 - Ranking)
+
+With the above formula, the Composite value was calculated for each attribute.
+
+| Attribute | Composite |
 | --- | --- |
-| Distance Weight | 400 |
-| Circuity Weight | 100 |
-| Crime Weight | 300 |
-| Population Weight | 200 |
-| Cartel Weight | 500 |
+| Presence of Competing Gangs | 3.93 |
+| Distance to Next Desination | 3.21 |
+| Crime Rate | 2.50 |
+| Population Density | 2.07 |
+| Complexity of the Route | 2.00 |
 
 Each destination city was assigned a cartel that controlled the particular area.  For this projected, it was assumed that the begining city of Zihuatanejo was the control cartel, with a weighting of 1.  If a city was in a rival cartel area, then the cartel weighting was set to 0.  If the city had shared or multiple controls from cartels, it was given a partial weighting of 0.33 since there were three cartels in the study.
 
