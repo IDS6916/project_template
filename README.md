@@ -270,7 +270,15 @@ Write up a little about Graph Tea.  Then show a pic of the routes and cities in 
 
 ### 6.1 Route Decision Questionnaire Responses
 
-Write up about the responses.
+The results for the questionnaire was gathered from a pilto study using the class as subjects.  The Score and Ranking attribute were averaged among the results.  The Low/High was taken by using the value that had the majority of the responses.  The averaged information is shown below.
+
+| Attribute | Score | Low/High | Ranking |
+| --- | --- | --- | --- |
+| Presence of Competing Gangs | 4.71 | Low | 1.86 |
+| Distance to Next Desination | 3.86 | Low | 2.43 |
+| Crime Rate | 3.14 | High | 3.14 |
+| Population Density | 2.86 | Low | 3.71 |
+| Complexity of the Route | 2.86 | Low | 3.86 |
 
 ### 6.2 Regional Influence Questionnaire Response
 
