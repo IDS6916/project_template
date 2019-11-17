@@ -382,6 +382,10 @@ Each of the routes attributes were normalized to range from 0 to 1.  The assendi
 
 Write how Graph Tea works.  Record a video of the Graph Tea running.  Show the final result in Graph Tea.  Show the result in KMZ.
 
+Graph Tea was used to calculate the route with the least risk calcualted on based on the routes attributes and survey results.  The cities were loaded into Graph Tea in their respective geographical locations.  The routes were defined using the city to city routes with the weights defined from the results each routes attributes and the weighting determined by the Route Decision Questionnaire results.  The input in the Graph Tea program is shown below.
+
+<img src="images/GraphTeaInput.png" width="400">
+
 ## 7. Conclusion
 
 ### 7.1 Compare to other studies results
