@@ -388,7 +388,7 @@ Graph Tea was used to calculate the route with the least risk calcualted on base
 
 Graph Tea was ran with the input of the cities, routes, and weights to find the least risk path between the source city and the desitnation city.  For this, the Dijkstra algorithm was ran.  Within the program, the route with the smallest weights was calculated.  The results are shown below in the image and a link to a video showing the Dijkstra algorithm being ran.
 
-<img src="images/GraphTeaOutput.png" width="400">
+<img src="images/GraphTeaOutputPS.png" width="400">
 
 The video will go to a link that can download the mp4 file for playback.
 
