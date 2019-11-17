@@ -303,9 +303,9 @@ Each destination city was assigned a cartel that controlled the particular area.
 | Cartel | Weighting |
 | --- | --- |
 | Shared | 0.33 |
-| Sinaloa | 0 |
-| Tamaulipas | 0 |
-| Tierra Caliente | 1 |
+| Sinaloa | 0.00 |
+| Tamaulipas | 0.00 |
+| Tierra Caliente | 1.00 |
 
 Each of the routes attributes were normalized to range from 0 to 1.  The assending or dessending order was based on the Low/High response from the Route Decision Questionnaire results.  Each attribute was then scaled by the attribute scale and summed.  The results for each route is shown below.
 
