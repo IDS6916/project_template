@@ -195,74 +195,74 @@ The routes were defined next using the maps that were generated.  Each route was
 
 | Route | Linear Distance (mi) | Path Distance (mi) | Circuity | Destination City Crime Rate | Destination Population |
 | --- | --- | --- | --- | --- | --- |
-| Zihuatanejo to Huetamo | 75.9 | 162 | 2.1 | 28.6 | 49031 |
-| Zihuatanejo to Nueva Italia de Ruiz | 97.4 | 125 | 1.3 | 4.7 | 42605 |
+| Zihuatanejo to Huetamo | 75.9 | 162.0 | 2.1 | 28.6 | 49031 |
+| Zihuatanejo to Nueva Italia de Ruiz | 97.4 | 125.0 | 1.3 | 4.7 | 42605 |
 | Nueva Italia de Ruiz to Uruapan | 25.3 | 36.2 | 1.4 | 74.6 | 348643 |
-| Huetamo to Morelia | 74.2 | 128 | 1.7 | 41.2 | 786782 |
+| Huetamo to Morelia | 74.2 | 128.0 | 1.7 | 41.2 | 786782 |
 | Uruapan to Pátzcuaro | 26.9 | 35.5 | 1.3 | 14.7 | 95335 |
 | Pátzcuaro to Morelia | 27.6 | 33.7 | 1.2 | 41.2 | 786782 |
-| Morelia to San Juan del Río | 85.6 | 151 | 1.8 | 13.5 | 280960 |
+| Morelia to San Juan del Río | 85.6 | 151.0 | 1.8 | 13.5 | 280960 |
 | Morelia to Celaya | 57.3 | 90.4 | 1.6 | 38.2 | 513690 |
 | Morelia to Irapuato | 65.8 | 86.6 | 1.3 | 53.7 | 584276 |
 | Celaya to Irapuato | 34.1 | 42.2 | 1.2 | 53.7 | 584276 |
 | Irapuato to Celaya | 34.1 | 42.2 | 1.2 | 38.2 | 513690 |
 | San Juan del Río to Celaya | 49.9 | 65.6 | 1.3 | 38.2 | 513690 |
 | Celaya to San Juan del Río | 49.9 | 65.6 | 1.3 | 13.5 | 280960 |
-| Pátzcuaro to La Piedad | 58.4 | 132 | 2.3 | 22.3 | 107696 |
+| Pátzcuaro to La Piedad | 58.4 | 132.0 | 2.3 | 22.3 | 107696 |
 | Uruapan to Zamora | 40.9 | 64.9 | 1.6 | 62.9 | 200205 |
 | Zamora to La Piedad | 25.6 | 32.7 | 1.3 | 22.3 | 107696 |
 | La Piedad to Irapuato | 46.9 | 61.5 | 1.3 | 53.7 | 584276 |
-| Zamora to Guadalajara | 82 | 104 | 1.3 | 22.5 | 1538374 |
-| La Piedad to Guadalajara | 83.8 | 103 | 1.2 | 22.5 | 1538374 |
+| Zamora to Guadalajara | 82.0 | 104.0 | 1.3 | 22.5 | 1538374 |
+| La Piedad to Guadalajara | 83.8 | 103.0 | 1.2 | 22.5 | 1538374 |
 | La Piedad to León | 56.4 | 69.6 | 1.2 | 26.5 | 1575400 |
 | Irapuato to León | 38.8 | 43.1 | 1.1 | 26.5 | 1575400 |
-| San Juan del Río to San Luis Potosí | 134 | 159 | 1.2 | 20.4 | 854014 |
-| Celaya to San Luis Potosí | 105 | 160 | 1.5 | 20.4 | 854014 |
-| Irapuato to San Luis Potosí | 101 | 128 | 1.3 | 20.4 | 854014 |
-| León to San Luis Potosí | 82.4 | 112 | 1.4 | 20.4 | 854014 |
+| San Juan del Río to San Luis Potosí | 134.0 | 159.0 | 1.2 | 20.4 | 854014 |
+| Celaya to San Luis Potosí | 105.0 | 160.0 | 1.5 | 20.4 | 854014 |
+| Irapuato to San Luis Potosí | 101.0 | 128.0 | 1.3 | 20.4 | 854014 |
+| León to San Luis Potosí | 82.4 | 112.0 | 1.4 | 20.4 | 854014 |
 | Guadalajara to San Juan de los Lagos | 70.3 | 89.2 | 1.3 | 13.3 | 74932 |
-| San Juan de los Lagos to San Luis Potosí | 102 | 119 | 1.2 | 20.4 | 854014 |
+| San Juan de los Lagos to San Luis Potosí | 102.0 | 119.0 | 1.2 | 20.4 | 854014 |
 | León to San Juan de los Lagos | 38.5 | 50.6 | 1.3 | 13.3 | 74932 |
 | San Juan de los Lagos to León | 38.5 | 50.6 | 1.3 | 26.5 | 1575400 |
-| San Juan del Río to Rioverde | 105 | 255 | 2.4 | 10 | 100293 |
-| Rioverde to San Luis Potosí | 62.6 | 109 | 1.7 | 20.4 | 854014 |
-| San Luis Potosí to Rioverde | 62.6 | 109 | 1.7 | 10 | 100293 |
-| San Juan del Río to Ciudad Valles | 121 | 231 | 1.9 | 19.5 | 184262 |
+| San Juan del Río to Rioverde | 105.0 | 255.0 | 2.4 | 10.0 | 100293 |
+| Rioverde to San Luis Potosí | 62.6 | 109.0 | 1.7 | 20.4 | 854014 |
+| San Luis Potosí to Rioverde | 62.6 | 109.0 | 1.7 | 10.0 | 100293 |
+| San Juan del Río to Ciudad Valles | 121.0 | 231.0 | 1.9 | 19.5 | 184262 |
 | Rioverde to Ciudad Valles | 61.3 | 75.8 | 1.2 | 19.5 | 184262 |
-| Ciudad Valles to Rioverde | 61.3 | 75.8 | 1.2 | 10 | 100293 |
-| Ciudad Valles to Matehuala | 152 | 166 | 1.1 | 21.4 | 102579 |
-| San Luis Potosí to Matehuala | 101 | 121 | 1.2 | 21.4 | 102579 |
-| Ciudad Valles to Ciudad Victoria | 117 | 143 | 1.2 | 29.3 | 368317 |
-| Ciudad Victoria to Linares | 80.2 | 96.7 | 1.2 | 0 | 89441 |
-| Matehuala to Linares | 104 | 142 | 1.4 | 0 | 89441 |
+| Ciudad Valles to Rioverde | 61.3 | 75.8 | 1.2 | 10.0 | 100293 |
+| Ciudad Valles to Matehuala | 152.0 | 166.0 | 1.1 | 21.4 | 102579 |
+| San Luis Potosí to Matehuala | 101.0 | 121.0 | 1.2 | 21.4 | 102579 |
+| Ciudad Valles to Ciudad Victoria | 117.0 | 143.0 | 1.2 | 29.3 | 368317 |
+| Ciudad Victoria to Linares | 80.2 | 96.7 | 1.2 | 0.0 | 89441 |
+| Matehuala to Linares | 104.0 | 142.0 | 1.4 | 0.0 | 89441 |
 | Linares to Monterrey | 72.7 | 80.9 | 1.1 | 17.1 | 1226064 |
-| Monterrey to Sabinas Hidalgo | 48 | 64.8 | 1.4 | 10.3 | 38888 |
+| Monterrey to Sabinas Hidalgo | 48.0 | 64.8 | 1.4 | 10.3 | 38888 |
 | Sabinas Hidalgo to Nuevo Laredo | 77.7 | 81.7 | 1.1 | 15.2 | 432926 |
-| Monterrey to Nueva Ciudad Guerrero | 86 | 108 | 1.3 | 0 | 5371 |
+| Monterrey to Nueva Ciudad Guerrero | 86.0 | 108.0 | 1.3 | 0.0 | 5371 |
 | Nueva Ciudad Guerrero to Nuevo Laredo | 66.1 | 78.1 | 1.2 | 15.2 | 432926 |
-| Monterrey to Reynosa | 125 | 136 | 1.1 | 30.9 | 718857 |
-| Reynosa to Nueva Ciudad Guerrero | 62.7 | 81.7 | 1.3 | 0 | 5371 |
-| Guadalajara to Aguascalientes | 103 | 138 | 1.3 | 6.8 | 905908 |
+| Monterrey to Reynosa | 125.0 | 136.0 | 1.1 | 30.9 | 718857 |
+| Reynosa to Nueva Ciudad Guerrero | 62.7 | 81.7 | 1.3 | 0.0 | 5371 |
+| Guadalajara to Aguascalientes | 103.0 | 138.0 | 1.3 | 6.8 | 905908 |
 | San Juan de los Lagos to Aguascalientes | 41.9 | 50.8 | 1.2 | 6.8 | 905908 |
 | Aguascalientes to Zacatecas | 57.2 | 73.2 | 1.3 | 36.3 | 148752 |
-| Guadalajara to Zacatecas | 149 | 199 | 1.3 | 36.3 | 148752 |
-| San Luis Potosí to Zacatecas | 107 | 120 | 1.1 | 36.3 | 148752 |
-| Guadalajara to Fresnillo | 172 | 217 | 1.3 | 42.3 | 231904 |
+| Guadalajara to Zacatecas | 149.0 | 199.0 | 1.3 | 36.3 | 148752 |
+| San Luis Potosí to Zacatecas | 107.0 | 120.0 | 1.1 | 36.3 | 148752 |
+| Guadalajara to Fresnillo | 172.0 | 217.0 | 1.3 | 42.3 | 231904 |
 | Zacatecas to Fresnillo | 29.5 | 37.8 | 1.3 | 42.3 | 231904 |
-| Zacatecas to San Tiburcio | 113 | 127 | 1.1 | 0 | 548 |
-| Matehuala to San Tiburcio | 63.6 | 73.9 | 1.2 | 0 | 548 |
-| San Tiburcio to Saltillo | 92.3 | 108 | 1.2 | 3.2 | 825244 |
-| Matehuala to Saltillo | 121 | 158 | 1.3 | 3.2 | 825244 |
+| Zacatecas to San Tiburcio | 113.0 | 127.0 | 1.1 | 0.0 | 548 |
+| Matehuala to San Tiburcio | 63.6 | 73.9 | 1.2 | 0.0 | 548 |
+| San Tiburcio to Saltillo | 92.3 | 108.0 | 1.2 | 3.2 | 825244 |
+| Matehuala to Saltillo | 121.0 | 158.0 | 1.3 | 3.2 | 825244 |
 | Saltillo to Monterrey | 43.7 | 54.2 | 1.2 | 17.1 | 1226064 |
-| Fresnillo to Torreón | 166 | 205 | 1.2 | 11.1 | 723100 |
-| Saltillo to Torreón | 149 | 157 | 1.1 | 11.1 | 723100 |
-| Torreón to Saltillo | 149 | 157 | 1.1 | 3.2 | 825244 |
-| Torreón to Monclova | 153 | 229 | 1.5 | 6.7 | 240033 |
-| Saltillo to Monclova | 106 | 123 | 1.2 | 6.7 | 240033 |
-| Monterrey to Monclova | 105 | 121 | 1.2 | 6.7 | 240033 |
-| Monclova to Sabinas | 67 | 71.4 | 1.1 | 2.9 | 69718 |
+| Fresnillo to Torreón | 166.0 | 205.0 | 1.2 | 11.1 | 723100 |
+| Saltillo to Torreón | 149.0 | 157.0 | 1.1 | 11.1 | 723100 |
+| Torreón to Saltillo | 149.0 | 157.0 | 1.1 | 3.2 | 825244 |
+| Torreón to Monclova | 153.0 | 229.0 | 1.5 | 6.7 | 240033 |
+| Saltillo to Monclova | 106.0 | 123.0 | 1.2 | 6.7 | 240033 |
+| Monterrey to Monclova | 105.0 | 121.0 | 1.2 | 6.7 | 240033 |
+| Monclova to Sabinas | 67.0 | 71.4 | 1.1 | 2.9 | 69718 |
 | Sabinas to Piedras Negras | 63.8 | 75.6 | 1.2 | 7.1 | 168297 |
-| Piedras Negras to Nuevo Laredo | 103 | 110 | 1.1 | 15.2 | 432926 |
+| Piedras Negras to Nuevo Laredo | 103.0 | 110.0 | 1.1 | 15.2 | 432926 |
 
 ### 5.3 Graph Tea Writeup
 
