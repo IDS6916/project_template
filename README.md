@@ -384,6 +384,14 @@ Write how Graph Tea works.  Record a video of the Graph Tea running.  Show the f
 
 Graph Tea was used to calculate the route with the least risk calcualted on based on the routes attributes and survey results.  The cities were loaded into Graph Tea in their respective geographical locations.  The routes were defined using the city to city routes with the weights defined from the results each routes attributes and the weighting determined by the Route Decision Questionnaire results.  The input in the Graph Tea program is shown below.
 
+<img src="images/GraphTeaInput.png" width="400">
+
+Graph Tea was ran with the input of the cities, routes, and weights to find the least risk path between the source city and the desitnation city.  For this, the Dijkstra algorithm was ran.  Within the program, the route with the smallest weights was calculated.  The results are shown below in the image and a link to a video showing the Dijkstra algorithm being ran.
+
+<img src="images/GraphTeaOutput.png" width="400">
+
+The video will go to a link that can download the mp4 file for playback.
+
 [![Graph Tea](images/MexicoRoutes85.png)](https://github.com/harrycornell/Research-Project/blob/master/images/MexicoRoutes85.mp4)
 
 ## 7. Conclusion
