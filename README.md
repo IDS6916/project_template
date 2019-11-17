@@ -313,9 +313,13 @@ Each destination city was assigned a cartel that controlled the particular area.
 
 Each of the routes attributes were normalized to range from 0 to 1.  The normalization was done by calculating the value over the range of the minimum and maximum for each attribute using the following formula.
 
-Normalized Attribute = (
+Normalized Attribute = (Attribute Value - Min Attribute Value) / (Max Attribute Value - Min Attribute Value)
 
-The assending or dessending order was based on the Low/High response from the Route Decision Questionnaire results.  Each attribute was then scaled by the attribute scale and summed.  The results for each route is shown below.
+The assending or dessending order was based on the Low/High response from the Route Decision Questionnaire results.  Each attribute was then scaled by the attribute scale and summed.
+
+Route Weight = (Distance * Distance to Next Desination Composite) + (Circuity * Complexity of the Route Composite) + (Crime * Crime Rate Composite) + (Popluation * Population Density Composite) + (Cartel * Presence of Competing Gangs Composite)
+
+The results for each route is shown below.
 
 | Route | Distance | Circuity | Crime | Popluation | Cartel | Route Weight |
 | --- | --- | --- | --- | --- | --- | --- |
