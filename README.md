@@ -386,6 +386,8 @@ Graph Tea was used to calculate the route with the least risk calcualted on base
 
 <img src="images/GraphTeaInput.png" width="400">
 
+<img src="images/MexicoRoutes85.mp4">
+
 ## 7. Conclusion
 
 ### 7.1 Compare to other studies results
