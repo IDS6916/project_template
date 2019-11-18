@@ -24,7 +24,7 @@ Computer simulations offer an option for this research. By first understanding t
 
 <img src="images/Medel2015_MXRoutes.jpg" width="350" >  <img src="images/graphtheoryexample.png" width="400" >
 
-In an attempt to aid cultural heritage workers, international NGO's, and local stakeholders, this project addresses the problem of illicit antiquities trafficking by using computer simulations to illuminate the relationship between existing transportation infrastructures and the paths criminals use to transport stolen antiquities from archaeological sites. We believe this project will provide proof of concept that computer simulations can reliably predict the routes that smugglers would select when they choose to hide in plain sight. [JRR: fix this!]
+In an attempt to aid cultural heritage workers, international NGO's, and local stakeholders, this project addresses the problem of illicit antiquities trafficking by using computer simulations to illuminate the relationship between existing transportation infrastructures and the paths criminals use to transport stolen antiquities from archaeological sites. We believe this project will provide proof of concept that computer simulations can reliably predict the routes that smugglers would select when they choose to hide in plain sight. [JRR: FIX THIS!]
 
 ### 2.1 Motivation
 
@@ -272,6 +272,8 @@ Write up a little about Graph Tea.  Then show a pic of the routes and cities in 
 
 ### 6.1 Route Decision Questionnaire Responses
 
+[LHC: update table 6.1 to reflect normalized data, descending order]
+
 The results for the questionnaire was gathered from a pilto study using the class as subjects.  The Score and Ranking attribute were averaged among the results.  The Low/High was taken by using the value that had the majority of the responses.  The averaged information is shown below.
 
 | Attribute | Score | Low/High | Ranking |
@@ -288,9 +290,12 @@ Write up about the responses.
 
 ### 6.3 Calculating Attribute Weights
 
+[LHC: add in paragraph re: normalizing data, update tables/data, include rerun graphtea output]
+
 To apply the weights of the different attributes, scales were applied to each attribute.  The scale was based on the Score and Ranking attribute that was dirived from the Route Decision Questionnaire.  These scales will be used against each routes attributes to detemine the final weighting of the attribute.  The scales were calculated using the following formula to allow for the more risky attribute to have a higher value.  The Score and Rankings were based on a scale of 1 - 5, therefore 5 was set to be the most risky for the Composite calculation.
 
-Composite = Average(Score, 5.00 - Ranking)
+Composite = Average(Score, 5.00 - Ranking)  
+[JRR NOTE: i'm confused by this formula. are you subtracting the ranking from 5.0 and then multiplying that by the average? The average of the ranking or the average of the score? Either way, neither produce the numbers in the below table.]
 
 With the above formula, the Composite value was calculated for each attribute.
 
@@ -412,11 +417,17 @@ The video will go to a link that can download the mp4 file for playback.
 
 ### 7.1 Compare to other studies results
 
+[JRR & AN: fill out section, include images, benefits of using this method v. medel method]
+
 ## 8. Future Work
+
+[JRR & AN: fill out section]
 
 ### 8.1 Expand this to use more turn-by-turn simulation
 
 ### 8.2 Apply to MENA
+
+[Insert regional influence survey here]
 
 ## References
 
