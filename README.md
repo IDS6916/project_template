@@ -34,7 +34,7 @@ The looting of historical sites is both damaging to the cultural heritage of loc
 
 The current project will utilize graph-theory to develop a series of routes within known smuggling networks. Our modeled smuggling network will take into account highly related factors like circuity and border security in order to generate routes with better validity than what can be achieved with shortest-path routing. A series of surveys and questionnaires will be used to gain additional insight about our model and smuggling behavior. The goal is for this model of smuggling to be extended to the MENA region where it can be used to predict artifact smuggling routes.
 
-PUT IN SECTION TO EXPLAIN THIS IS NOT THE SHORTEST PATH, BUT LEAST RISK PATH.
+[PUT IN SECTION TO EXPLAIN THIS IS NOT THE SHORTEST PATH, BUT LEAST RISK PATH.]
 
 ### 2.3 Hypotheses:
 
@@ -126,13 +126,11 @@ Insert form here (maybe) or explain how/why we choose the type to do
 
 Participants recruited through SONA will be asked to fill out the questionnaire in a face-to-face session. The function of an in-person meeting is to ensure that any questions from the participant concerning this nuanced cultural issue can be fully addressed be researchers. After receiving a thorough briefing on the topic, participants will be allowed to complete the paper-based form in private. This questionnaire is not expected to take more than 15 minutes to complete. 
 
-Insert Route Decision Questionnaire
+[Insert Route Decision Questionnaire]
 
 #### 5.2.3 Regional Influence Questionnaire
 
 Participants will be recruited through Facebook and social media. Respondents who choose to participate will receive a link to fill out the survey through Google Forms. Study's completed in this manner are both convenient and anonymous. Survey completion will take no more than 10 minutes. 
-
-Insert Regional influence Questionnaire
 
 ### 5.3 Define Routes
 
@@ -290,7 +288,7 @@ Write up about the responses.
 
 ### 6.3 Calculating Attribute Weights
 
-[LHC: add in paragraph re: normalizing data, update tables/data, include rerun graphtea output]
+[LHC: add in paragraph re: normalizing data; update tables/data; include rerun graphtea output]
 
 To apply the weights of the different attributes, scales were applied to each attribute.  The scale was based on the Score and Ranking attribute that was dirived from the Route Decision Questionnaire.  These scales will be used against each routes attributes to detemine the final weighting of the attribute.  The scales were calculated using the following formula to allow for the more risky attribute to have a higher value.  The Score and Rankings were based on a scale of 1 - 5, therefore 5 was set to be the most risky for the Composite calculation.
 
@@ -417,11 +415,11 @@ The video will go to a link that can download the mp4 file for playback.
 
 ### 7.1 Compare to other studies results
 
-[JRR & AN: fill out section, include images, benefits of using this method v. medel method]
+[AN & JRR: fill out section, include images, benefits of using this method v. medel method]
 
 ## 8. Future Work
 
-[JRR & AN: fill out section]
+[AN & JRR: fill out section]
 
 ### 8.1 Expand this to use more turn-by-turn simulation
 
