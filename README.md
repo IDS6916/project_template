@@ -1,4 +1,4 @@
-# Research Practicum 2018 – Research Plan (Template)
+# Research Practicum 2018: Research Plan 
 
 
 > * Group Name: Team McQuarantine Milton
